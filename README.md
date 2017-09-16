@@ -7,6 +7,6 @@ Insert the command `npm install`<br>
 After it, you've to insert `npm run dev` to run the project.
 
 # It's a simple game about my resume
-![imgresume](https://user-images.githubusercontent.com/29846498/30515385-f3b942bc-9afc-11e7-9286-1bfa58f870af.png)
+![imgresume](https://user-images.githubusercontent.com/29846498/30515412-5f14a2c2-9afd-11e7-91ee-02f80d0b276e.png)
 
 
