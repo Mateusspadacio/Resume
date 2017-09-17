@@ -1,5 +1,5 @@
 # Resume
-It was made in JavaScript, AngularJS, jQuery, HTML and CSS3.
+It's a mini game about my resume.
 
 You've to access the frontend directory and install the dependencies.<br>
 Insert the command `npm install`<br>
